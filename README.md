@@ -1,3 +1,3 @@
-# DavBot-MD
+# DavBot
 
 Soon…
